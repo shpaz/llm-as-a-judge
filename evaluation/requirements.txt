@@ -1,0 +1,6 @@
+pandas
+datasets
+ragas
+langchain-openai
+python-dotenv
+tabulate
